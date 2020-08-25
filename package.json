@@ -1,0 +1,22 @@
+{
+  "name": "discordbottemplate",
+  "version": "1.0.0",
+  "description": "Use this template to get started with discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnieDaTryHard/DiscordBotTemplate.git"
+  },
+  "author": "ErnieDaTryHard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnieDaTryHard/DiscordBotTemplate/issues"
+  },
+  "homepage": "https://github.com/ErnieDaTryHard/DiscordBotTemplate#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
