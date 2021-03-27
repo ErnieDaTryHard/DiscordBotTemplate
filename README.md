@@ -22,7 +22,7 @@ This can be done via:
  
 2. Install the required dependencies. This can be done by running `npm install` on the command line in our cloned / downloaded directory.
 
-3. Create a new application for your discord bot. Visit the [Discord Dev Portal](https://discord.com/developers/applications "Discord Dev Portal") and create a new application.
+3. Create a new application for your discord bot. Visit the [Discord Dev Portal](https://discord.com/developers/applications "Discord Dev Portal") to create a new application.
 
 Once created, go to the bot tab and create a new bot. Then copy the bot's token and paste it into the package.json file where it says "paste token here"
 
@@ -30,7 +30,7 @@ _Note: __DO NOT__ share your bot token with anyone. Treat it as your password fo
 
 4. We need to invite our discord bot to a server, in order to start development. To do this, visit the [Discord Permissions Calculator](https://discordapi.com/permissions.html "Discord Permissions Calculator") and insert your client ID here: 
 
-[ClientID](https://i.imgur.com/MxORJkG.png)
+![](https://i.imgur.com/MxORJkG.png)
 
 Your client ID can be found in the client tab of your application in the Discord Dev Portal.
 
