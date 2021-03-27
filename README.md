@@ -32,7 +32,7 @@ _Note: __DO NOT__ share your bot token with anyone. Treat it as your password fo
 
 ![](https://i.imgur.com/MxORJkG.png)
 
-Your client ID can be found in the client tab of your application in the Discord Dev Portal.
+Your client ID can be found in the `General Information` tab of your application in the Discord Dev Portal.
 
 Next, add all the required permissions your bot needs in order to do what you intend for it to do. If your bot doesn't have sufficient permissions for an action you are trying to perform, then it will throw an error. In our case, we will select only the Administrator permission as we are developing our bot and we want it to be able to achieve anything that is necessary to complete an action. How you choose to setup your permissions when you release your bot publicly is up to you.
 
