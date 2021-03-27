@@ -28,7 +28,7 @@ Once created, go to the bot tab and create a new bot. Then copy the bot's token 
 
 _Note: __DO NOT__ share your bot token with anyone. Treat it as your password for your bot. If people have your bot token, all progress that you have made into developing your Discord Bot can be destroyed in an instant with API abusers. This can get your discord account banned as the bot is tied with your account._
 
-4. We need to invite our discord bot to a server, in order to start development. To do this, visit the [Discord Permissions Calculator](https://discordapi.com/permissions.html "Discord Permissions Calculator") and insert your client ID here: 
+4. We need to invite our discord bot to a server in order to start development. To do this, visit the [Discord Permissions Calculator](https://discordapi.com/permissions.html "Discord Permissions Calculator") and insert your client ID here: 
 
 ![](https://i.imgur.com/MxORJkG.png)
 
