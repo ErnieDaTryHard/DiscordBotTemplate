@@ -38,7 +38,7 @@ Next, add all the required permissions your bot needs in order to do what you in
 
 Copy the link generated at the bottom and open it in a new tab. This will give you a bot invite, so you can invite it to your testing server.
 
-5. Let's make sure our bot is functioning. Run `node .` on the command line in your bot directory to start up your bot. In your testing server you should see your bot going online, which is a good sign. In any of your text channels, type `!ping`. If the bot responds with pong, then your bot is succesfully up and running. To shut down your bot, go back to the command line and enter `Ctrl + C`.
+5. Let's make sure our bot is functioning. Run `node .` on the command line in your bot directory to start up your bot. In your testing server you should see your bot going online, which is a good sign. In any of your text channels, type `!ping`. If the bot responds with `pong!`, then your bot is succesfully up and running. To shut down your bot, go back to the command line and enter `Ctrl + C`.
 
 Great! Your bot is now up and running and you can now code your commands with a simple command handler. For guides on the discord.js library use [Youtube](https://www.youtube.com/results?search_query=discord.js+bot+tutorial "Youtube"). 
 
