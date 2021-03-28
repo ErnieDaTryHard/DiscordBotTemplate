@@ -24,7 +24,7 @@ This can be done via:
 
 3. Create a new application for your discord bot. Visit the [Discord Dev Portal](https://discord.com/developers/applications "Discord Dev Portal") to create a new application.
 
-Once created, go to the bot tab and create a new bot. Then copy the bot's token and paste it into the package.json file where it says "paste token here"
+Once created, go to the bot tab and create a new bot. Then copy the bot's token and paste it into the config.json file where it says "paste token here"
 
 _Note: __DO NOT__ share your bot token with anyone. Treat it as your password for your bot. If people have your bot token, all progress that you have made into developing your Discord Bot can be destroyed in an instant with API abusers. This can get your discord account banned as the bot is tied with your account._
 
